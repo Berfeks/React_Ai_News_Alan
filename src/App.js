@@ -7,7 +7,6 @@ import wordsToNumbers from 'words-to-numbers';
 
 const alanKey = '';
 
-
 const App = () => {
   const [newsArticles, setNewsArticles] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
