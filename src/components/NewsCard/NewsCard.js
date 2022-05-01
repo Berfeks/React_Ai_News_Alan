@@ -12,7 +12,6 @@ import {
 
 import useStyles from './styles';
 
-
 const NewsCard = ({
   article: { description, publishedAt, source, title, url, urlToImage },
   activeArticle,
