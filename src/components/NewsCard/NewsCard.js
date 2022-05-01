@@ -9,7 +9,6 @@ import {
   Typography,
 } from '@material-ui/core';
 
-
 import useStyles from './styles';
 
 const NewsCard = ({
